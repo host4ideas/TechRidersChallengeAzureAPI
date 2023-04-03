@@ -1,2 +1,3 @@
 app registrations -> new app registration "example app"
+app registrations -> certificate and secrets -> new client secret
 subscriptions -> IAM -> add role assignment -> priviliged -> contributor -> add member "example app"
